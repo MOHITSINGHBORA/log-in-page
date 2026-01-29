@@ -48,6 +48,7 @@ body {
 					margin: 20px 0px;
 
 					.icons {
+						color: white;
 						border: 1px solid #ccc;
 						border-radius: 20%;
 						display: inline-flex;
@@ -125,7 +126,7 @@ body {
 			z-index: 1000;
 
 			.toggle {
-				background: linear-gradient(to right, #ff8c00, #ff5f1f);
+				background: linear-gradient(to right, #ff5f1f, #f78903);
 				color: #fff;
 				position: relative;
 				left: -100%;
